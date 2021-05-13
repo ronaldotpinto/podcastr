@@ -1,5 +1,3 @@
-// Sobre: Uma plataforma criada para transmissão de podcast. Desenvolvida durante o treinamento gratuíto NLW#05 da @Rocketseat.
-
 <div align="center">
   <img src=".github/podcastr-logo.svg" alt="Logo do Podcastr">
 </div>
