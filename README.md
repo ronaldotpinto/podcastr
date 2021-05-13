@@ -42,18 +42,18 @@ $ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
 **Siga os passos abaixo**
 
 ```bash
-# Install the dependencies
+# Instale as dependências
 $ yarn
 
-# Run the backend fake server
+# Rode o servidor backend fake
 $ yarn server
 
-# Run the web server
+# Rode o servidor web
 $ yarn dev
 ```
 
 O aplicativo estará disponível para acesso no seu navegador em `http://localhost:3000`
 
-## 📝 License
+## 📝 Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sobre a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
