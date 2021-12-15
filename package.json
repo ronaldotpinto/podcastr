@@ -9,10 +9,17 @@
     "server": "json-server db.json -w -d 750 -p 3333"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^0.24.0",
     "date-fns": "^2.27.0",
     "next": "^12.0.7",
     "rc-slider": "^9.7.5",
+=======
+    "axios": "^0.21.1",
+    "date-fns": "^2.22.1",
+    "next": "^11.1.3",
+    "rc-slider": "^9.7.2",
+>>>>>>> c7cd90ab0166ecb8afac1c02da6e50c35b3080db
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "sass": "^1.45.0"
