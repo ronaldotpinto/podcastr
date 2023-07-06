@@ -69,12 +69,13 @@ export default function Player() {
         <strong>Tocando Agora</strong>
       </header>
 
-      { episode ? (
+      {episode ? (
         <div className={styles.currentEpisode}>
           <Image
             width={592}
             height={592}
             src={episode.thumbnail}
+            alt={episode.title}
             objectFit="cover"
           />
           <strong>{episode.title}</strong>
